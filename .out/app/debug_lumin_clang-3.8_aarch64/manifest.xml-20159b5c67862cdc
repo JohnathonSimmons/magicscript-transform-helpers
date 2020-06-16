@@ -1,0 +1,9 @@
+<manifest xmlns:ml="magicleap" ml:developer_id="c580f3d8-6d41-44b1-a68c-10088acca0a9" ml:package="com.johnathon.animation" ml:version_code="1" ml:version_name="0.0.1">
+  <application ml:application_type="untrusted" ml:min_api_level="2" ml:sdk_version="1.0" ml:visible_name="animation-example">
+    <component ml:binary_name="bin/index.js" ml:name=".universe" ml:type="Universe" ml:visible_name="animation-example">
+      <mode ml:shareable="true" />
+      <icon ml:model_folder="" ml:portal_folder="" />
+    </component>
+    <uses-privilege ml:name="MagicScript" />
+  </application>
+</manifest>

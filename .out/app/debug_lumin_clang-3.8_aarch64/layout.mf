@@ -1,0 +1,138 @@
+[
+ {
+  "dest": "bin/index.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/index.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/fetch.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/fetch.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/fs.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/fs.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/headers.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/headers.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/polyfills.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/polyfills.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/tcp.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/tcp.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/text-encoder.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/text-encoder.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/timers.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/timers.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/weblit-js/libs/assert.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/weblit-js/libs/assert.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/weblit-js/libs/bintools.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/weblit-js/libs/bintools.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/weblit-js/libs/codec-wrap.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/weblit-js/libs/codec-wrap.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/weblit-js/libs/http-codec.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/weblit-js/libs/http-codec.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/weblit-js/libs/mime.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/weblit-js/libs/mime.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/weblit-js/libs/socket-wrap.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/weblit-js/libs/socket-wrap.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/weblit-js/libs/tls-wrap.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/weblit-js/libs/tls-wrap.js"
+ },
+ {
+  "dest": "bin/src/app.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/app.js"
+ },
+ {
+  "dest": "bin/src/curves.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/curves.js"
+ },
+ {
+  "dest": "bin/src/helpers.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/helpers.js"
+ },
+ {
+  "dest": "bin/src/libs/Euler.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/libs/Euler.js"
+ },
+ {
+  "dest": "bin/src/libs/Math.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/libs/Math.js"
+ },
+ {
+  "dest": "bin/src/libs/Matrix4.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/libs/Matrix4.js"
+ },
+ {
+  "dest": "bin/src/libs/Quaternion.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/libs/Quaternion.js"
+ },
+ {
+  "dest": "bin/src/libs/Vector3.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/libs/Vector3.js"
+ },
+ {
+  "dest": "bin/src/main.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/main.js"
+ },
+ {
+  "dest": "bin/src/transform.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/transform.js"
+ },
+ {
+  "dest": "bin/src/transform/curves.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/transform/curves.js"
+ },
+ {
+  "dest": "bin/src/transform/helpers.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/transform/helpers.js"
+ },
+ {
+  "dest": "bin/src/transform/libs/Euler.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/transform/libs/Euler.js"
+ },
+ {
+  "dest": "bin/src/transform/libs/Math.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/transform/libs/Math.js"
+ },
+ {
+  "dest": "bin/src/transform/libs/Matrix4.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/transform/libs/Matrix4.js"
+ },
+ {
+  "dest": "bin/src/transform/libs/Quaternion.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/transform/libs/Quaternion.js"
+ },
+ {
+  "dest": "bin/src/transform/libs/Vector3.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/transform/libs/Vector3.js"
+ },
+ {
+  "dest": "bin/src/transform/transform.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/transform/transform.js"
+ },
+ {
+  "dest": "bin/src/transforms.js",
+  "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/transforms.js"
+ }
+]

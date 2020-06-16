@@ -1,0 +1,277 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "9b3b9bf7aaa41ad178f5c1db28d09b7cfe724299",
+   "pkgpath": "bin/index.js",
+   "size": 49,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1e6e9a1619b2da458833baa2eb16c7261aad5cee",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/fetch.js",
+   "size": 7524,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/fetch.js"
+  },
+  {
+   "compression": 8,
+   "hash": "da4e06a73bbfa15070e2f2211adcfc24015784a3",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/fs.js",
+   "size": 3362,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/fs.js"
+  },
+  {
+   "compression": 8,
+   "hash": "fba38a801a253c83f2f4fe6155a3180ead5d425f",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/headers.js",
+   "size": 1410,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/headers.js"
+  },
+  {
+   "compression": 8,
+   "hash": "7d5ba694234b3f99cfad51776425d456ddd4b659",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/polyfills.js",
+   "size": 800,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/polyfills.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c8211086533b39dd2c8f803af60b208529f5b541",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/tcp.js",
+   "size": 707,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/tcp.js"
+  },
+  {
+   "compression": 8,
+   "hash": "2ca4e16db232d9bdc449fafae0ca9abec0dcae93",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/text-encoder.js",
+   "size": 2386,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/text-encoder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "548283cb338183bfa90a647a679bc42581d95f92",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/timers.js",
+   "size": 2919,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/timers.js"
+  },
+  {
+   "compression": 8,
+   "hash": "f3fd9ca534f50f032ae323e43234d344cbe007e5",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/weblit-js/libs/assert.js",
+   "size": 209,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/weblit-js/libs/assert.js"
+  },
+  {
+   "compression": 8,
+   "hash": "18dd921ae9cc0be5b97230021a375b85a6ae22c5",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/weblit-js/libs/bintools.js",
+   "size": 2658,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/weblit-js/libs/bintools.js"
+  },
+  {
+   "compression": 8,
+   "hash": "fc52749db72110a8c6b0c4cf8f2ff5daa087bea0",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/weblit-js/libs/codec-wrap.js",
+   "size": 1703,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/weblit-js/libs/codec-wrap.js"
+  },
+  {
+   "compression": 8,
+   "hash": "234b0a04b214bfb44fcd4f69b1ef8af29e7479e1",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/weblit-js/libs/http-codec.js",
+   "size": 8545,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/weblit-js/libs/http-codec.js"
+  },
+  {
+   "compression": 8,
+   "hash": "3f7b8e546601aa8b743921607f7f2e1fbd925557",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/weblit-js/libs/mime.js",
+   "size": 5783,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/weblit-js/libs/mime.js"
+  },
+  {
+   "compression": 8,
+   "hash": "a4d1e828afb37f3bbdf29615d15d477d808ecf8a",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/weblit-js/libs/socket-wrap.js",
+   "size": 2597,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/weblit-js/libs/socket-wrap.js"
+  },
+  {
+   "compression": 8,
+   "hash": "92312b6431fd5aa9904cda719d91f7987b40d802",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/weblit-js/libs/tls-wrap.js",
+   "size": 2375,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/node_modules/magic-script-polyfills/src/weblit-js/libs/tls-wrap.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c83b009ee4af62b40eb3eea011ad06d2ab9a6d25",
+   "pkgpath": "bin/src/app.js",
+   "size": 5363,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/app.js"
+  },
+  {
+   "compression": 8,
+   "hash": "15da8f8fe3c8d81245558a1ba0ce7d903a8721b3",
+   "pkgpath": "bin/src/curves.js",
+   "size": 5129,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/curves.js"
+  },
+  {
+   "compression": 8,
+   "hash": "d6e8547b0d76da25dd0ddd25c85e2fb53811ff88",
+   "pkgpath": "bin/src/helpers.js",
+   "size": 437,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/helpers.js"
+  },
+  {
+   "compression": 8,
+   "hash": "71938ed1a2dd172bcee7b2d70b6b69b2c7befd5b",
+   "pkgpath": "bin/src/libs/Euler.js",
+   "size": 5569,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/libs/Euler.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ee874af9baac5767eaf6ecd11b38a94528751e75",
+   "pkgpath": "bin/src/libs/Math.js",
+   "size": 3113,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/libs/Math.js"
+  },
+  {
+   "compression": 8,
+   "hash": "5f9663048e1de19433545dd8ae83974674163420",
+   "pkgpath": "bin/src/libs/Matrix4.js",
+   "size": 20566,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/libs/Matrix4.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b7994c25d121942ef3e6cc438794465d46822e23",
+   "pkgpath": "bin/src/libs/Quaternion.js",
+   "size": 11661,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/libs/Quaternion.js"
+  },
+  {
+   "compression": 8,
+   "hash": "02e9d6e8b189ded37369ead4cfb773e788f99119",
+   "pkgpath": "bin/src/libs/Vector3.js",
+   "size": 12287,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/libs/Vector3.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b075676bab19b1753b5db06c499274cb565fd78b",
+   "pkgpath": "bin/src/main.js",
+   "size": 365,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/main.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1a506a1000cc974c3126170bacf1fce8e02dacf1",
+   "pkgpath": "bin/src/transform.js",
+   "size": 5918,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/transform.js"
+  },
+  {
+   "compression": 8,
+   "hash": "15da8f8fe3c8d81245558a1ba0ce7d903a8721b3",
+   "pkgpath": "bin/src/transform/curves.js",
+   "size": 5129,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/transform/curves.js"
+  },
+  {
+   "compression": 8,
+   "hash": "3c63eca0c1bd4b1fe2f79ec17b6b14acb77c50f3",
+   "pkgpath": "bin/src/transform/helpers.js",
+   "size": 970,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/transform/helpers.js"
+  },
+  {
+   "compression": 8,
+   "hash": "71938ed1a2dd172bcee7b2d70b6b69b2c7befd5b",
+   "pkgpath": "bin/src/transform/libs/Euler.js",
+   "size": 5569,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/transform/libs/Euler.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ee874af9baac5767eaf6ecd11b38a94528751e75",
+   "pkgpath": "bin/src/transform/libs/Math.js",
+   "size": 3113,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/transform/libs/Math.js"
+  },
+  {
+   "compression": 8,
+   "hash": "5f9663048e1de19433545dd8ae83974674163420",
+   "pkgpath": "bin/src/transform/libs/Matrix4.js",
+   "size": 20566,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/transform/libs/Matrix4.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b7994c25d121942ef3e6cc438794465d46822e23",
+   "pkgpath": "bin/src/transform/libs/Quaternion.js",
+   "size": 11661,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/transform/libs/Quaternion.js"
+  },
+  {
+   "compression": 8,
+   "hash": "02e9d6e8b189ded37369ead4cfb773e788f99119",
+   "pkgpath": "bin/src/transform/libs/Vector3.js",
+   "size": 12287,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/transform/libs/Vector3.js"
+  },
+  {
+   "compression": 8,
+   "hash": "cd48fb419c48250cccef55fcac190a3ddaceb237",
+   "pkgpath": "bin/src/transform/transform.js",
+   "size": 5948,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/transform/transform.js"
+  },
+  {
+   "compression": 8,
+   "hash": "974eded530a452d628c8012a865708c3d0fc3f0a",
+   "pkgpath": "bin/src/transforms.js",
+   "size": 3629,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/bin/src/transforms.js"
+  },
+  {
+   "compression": 8,
+   "hash": "8be0f21b4bc28652ec094ea5c6f6148c1b9270b0",
+   "pkgpath": "./digest.sha512.signed",
+   "size": 6573,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/digest.sha512.signed"
+  },
+  {
+   "compression": 8,
+   "hash": "4f73882ee50b6ae609dd66bdda76348adceb697b",
+   "pkgpath": "manifest.xml",
+   "size": 633,
+   "src": "/Users/johnathon.simmons/code/ml-transform-library/manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "d6de46c0d00a888c867443deceb7b02aa9f3b06a",
+     "developer_id": "c580f3d8-6d41-44b1-a68c-10088acca0a9",
+     "min_api_level": "2"
+    }
+   },
+   "xfrm_hash": "578162651f4f200999f121c14d35bbf26c34e398",
+   "xfrm_path": "/Users/johnathon.simmons/code/ml-transform-library/.out/app/debug_lumin_clang-3.8_aarch64/manifest.xml-8415bb06352db099",
+   "xfrm_size": 594
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "/Users/johnathon.simmons/Documents/Projects/Magic Leap/Development/_resources/privatekey/myapp.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "/Users/johnathon.simmons/Documents/Projects/Magic Leap/Development/_resources/privatekey/myapp.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
